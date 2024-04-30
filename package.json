@@ -1,0 +1,17 @@
+{
+  "name": "simple-asia2-class8",
+  "version": "1.0.1",
+  "description": "",
+  "main": "loop.js",
+  "type": "module",
+  "bin": "loop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.20"
+  }
+}
